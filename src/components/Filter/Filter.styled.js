@@ -24,7 +24,7 @@ export const FilterInput = styled.input`
   :focus {
     color: #ffff;
     border: 2px solid rgba(50, 57, 65, 1);
-    background: #009eff;
+    background: #FFEBCD;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
 `;

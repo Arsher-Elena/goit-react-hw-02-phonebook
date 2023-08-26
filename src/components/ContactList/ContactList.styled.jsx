@@ -41,7 +41,7 @@ export const DeleteBtn = styled.button`
   &:hover {
     color: #ffff;
     border: 1px solid rgba(50, 57, 65, 1);
-    background: #188ce8;
+    background: #DEB887;
     font-weight: 700;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
